@@ -15,5 +15,3 @@
 7. Training: `training.ipynb`
 
 8. Testing and evaluation: `testing.ipynb`
-
-**For comprehensive final example**: `final.ipynb`
