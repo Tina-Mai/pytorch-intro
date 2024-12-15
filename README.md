@@ -14,4 +14,4 @@
 
 7. Training: `training.ipynb`
 
-8. Testing and evaluation: `testing_and_evaluation.ipynb`
+8. Testing and evaluation: `testing.ipynb`
