@@ -1,7 +1,7 @@
 # Pytorch intro
 
-## 1. Tensors intro
+1. Tensors intro
 
-## 2. Linear regression with perceptrons
+2. Linear regression with perceptrons
 
-## 3. Sequential neural network
+3. Sequential neural network
